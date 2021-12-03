@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b148634-7b59-40e1-a316-46dcd4ddbf1d" name="Default Changelist" comment="" />
+    <list default="true" id="0b148634-7b59-40e1-a316-46dcd4ddbf1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_trong_java/bai_tap/hien_thi_20_so_nguyen_to_dau_tien/HienThi20SoNguyenToDauTien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_trong_java/bai_tap/hien_thi_cac_loai_hinh/HienThiCacLoaiHinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_trong_java/bai_tap/hien_thi_cac_so_nguyen_to_nho_hon_100/HienThiCacSoNguyenToNhoHon100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_trong_java/thuc_hanh/kiem_tra_so_nguyen_to/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_trong_java/thuc_hanh/thiet_ke_menu_cho_ung_dung/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_trong_java/thuc_hanh/tinh_tien_lai_cho_vay/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_trong_java/thuc_hanh/uoc_so_chung_lon_nhat/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="21iujrBCkYYKIAPd7gEvYYXhTwI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +36,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="H:/A0721I1_LeHuuHuy/GitHub/A0721I1-L-H-u-Huy/A0721I1-L-H-u-Huy-main/Module1/case study/yeu_cau_1/bai3.html" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -31,13 +47,26 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.HienThiLoiChao">
-    <configuration name="HienThiLoiChao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.bai_tap.hien_thi_loi_chao.HienThiLoiChao" />
+  <component name="RunManager" selected="Application.HienThiCacLoaiHinh">
+    <configuration name="HienThi20SoNguyenToDauTien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss2_vong_lap_trong_java.bai_tap.hien_thi_20_so_nguyen_to_dau_tien.HienThi20SoNguyenToDauTien" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss1_introduction_to_java.bai_tap.hien_thi_loi_chao.*" />
+          <option name="PATTERN" value="ss2_vong_lap_trong_java.bai_tap.hien_thi_20_so_nguyen_to_dau_tien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HienThiCacLoaiHinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss2_vong_lap_trong_java.bai_tap.hien_thi_cac_loai_hinh.HienThiCacLoaiHinh" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss2_vong_lap_trong_java.bai_tap.hien_thi_cac_loai_hinh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,11 +75,11 @@
       </method>
     </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.thuc_hanh.su_dung_toan_tu.Main" />
+      <option name="MAIN_CLASS_NAME" value="ss2_vong_lap_trong_java.thuc_hanh.thiet_ke_menu_cho_ung_dung.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss1_introduction_to_java.thuc_hanh.su_dung_toan_tu.*" />
+          <option name="PATTERN" value="ss2_vong_lap_trong_java.thuc_hanh.thiet_ke_menu_cho_ung_dung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.thuc_hanh.giai_phuong_trinh_bac_nhat.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss2_vong_lap_trong_java.thuc_hanh.tinh_tien_lai_cho_vay.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss1_introduction_to_java.thuc_hanh.giai_phuong_trinh_bac_nhat.*" />
+          <option name="PATTERN" value="ss2_vong_lap_trong_java.thuc_hanh.tinh_tien_lai_cho_vay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,25 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.thuc_hanh.tinh_so_ngay_trong_thang.Main" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss2_vong_lap_trong_java.thuc_hanh.kiem_tra_so_nguyen_to.test" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss1_introduction_to_java.thuc_hanh.tinh_so_ngay_trong_thang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.bai_tap.hien_thi_loi_chao.Main" />
-      <module name="module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss1_introduction_to_java.bai_tap.hien_thi_loi_chao.*" />
+          <option name="PATTERN" value="ss2_vong_lap_trong_java.thuc_hanh.kiem_tra_so_nguyen_to.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HienThiLoiChao" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.HienThiCacLoaiHinh" />
+        <item itemvalue="Application.HienThi20SoNguyenToDauTien" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638436366207</updated>
       <workItem from="1638436369329" duration="6021000" />
+      <workItem from="1638526039513" duration="4220000" />
     </task>
     <servers />
   </component>
@@ -125,22 +142,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1638442581133">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1638529658333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638442581133" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1638442581133">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638529658333" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1638530307677">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1638442581133" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1638442581133">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638530307677" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1638530307677">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1638442581133" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1638442581133">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1638530307677" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1638530307677">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1638442581133" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1638530307677" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1638530307677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1638530307677" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1638526058523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1638526058523" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/module2$Main__3_.ic" NAME="Main (3) Coverage Results" MODIFIED="1638440765816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
