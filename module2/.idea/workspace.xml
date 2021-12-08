@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b148634-7b59-40e1-a316-46dcd4ddbf1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/thuc_hanh/chuyen_doi_nhiet_do/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/thuc_hanh/dao_nguoc_cac_phan_tu_cua_mang/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/thuc_hanh/tim_gia_tri_lon_nhat_trong_mang/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/thuc_hanh/tim_gia_tri_nho_nhat/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/thuc_hanh/tim_gia_tri_trong_mang/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/bai_tap/GopMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/bai_tap/ThemPhanTuVaoMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/bai_tap/XoaPhanTuKhoiMang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="H:/A0721I1_LeHuuHuy/GitHub/A0721I1-L-H-u-Huy/A0721I1-L-H-u-Huy-main/Module1/case study/yeu_cau_1/bai3.html" />
+    <property name="last_opened_file_path" value="H:/A0721I1_LeHuuHuy/GitHub/A0721I1-L-H-u-Huy/A0721I1-L-H-u-Huy-main/Module2/src/ss3_mang_phuong_thuc_trong_java/bai_tap/GopMang.java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,13 +42,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.thuc_hanh.tim_gia_tri_lon_nhat_trong_mang.Main" />
+  <component name="RunManager" selected="Application.GopMang">
+    <configuration name="GopMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.GopMang" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_mang_va_phuong_thuc_trong_java.thuc_hanh.tim_gia_tri_lon_nhat_trong_mang.*" />
+          <option name="PATTERN" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.thuc_hanh.dao_nguoc_cac_phan_tu_cua_mang.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.thuc_hanh.tim_gia_tri_lon_nhat_trong_mang.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_mang_va_phuong_thuc_trong_java.thuc_hanh.dao_nguoc_cac_phan_tu_cua_mang.*" />
+          <option name="PATTERN" value="ss3_mang_va_phuong_thuc_trong_java.thuc_hanh.tim_gia_tri_lon_nhat_trong_mang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.test" />
+    <configuration name="ThemPhanTuVaoMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.ThemPhanTuVaoMang" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GopMang" />
+        <item itemvalue="Application.ThemPhanTuVaoMang" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +133,9 @@
       <workItem from="1638530933128" duration="608000" />
       <workItem from="1638589041674" duration="2304000" />
       <workItem from="1638616606116" duration="2874000" />
-      <workItem from="1638703328701" duration="2837000" />
+      <workItem from="1638703328701" duration="2838000" />
+      <workItem from="1638807907500" duration="869000" />
+      <workItem from="1638923782027" duration="2064000" />
     </task>
     <servers />
   </component>
@@ -143,30 +143,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1638529658333">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1638961732907">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638529658333" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1638706433199">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638961732907" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1638961810378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638706433199" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1638706433199">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638961810378" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1638961810378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1638706433199" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1638706433199">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1638961810378" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1638961810378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1638706433199" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1638706433199">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1638961810378" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1638961810378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1638706433199" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1638703367638">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1638961810378" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1638923788352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1638703367638" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1638923788352" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/module2$Main__3_.ic" NAME="Main (3) Coverage Results" MODIFIED="1638440765816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
