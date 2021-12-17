@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b148634-7b59-40e1-a316-46dcd4ddbf1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/lop_circle_va_lop_cylinder/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/lop_circle_va_lop_cylinder/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/lop_circle_va_lop_cylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/lop_circle_va_lop_cylinder/CylinderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/lop_point_va_moveablepoint/MoveablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/lop_point_va_moveablepoint/MoveablePointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/lop_point_va_moveablepoint/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/lop_point_va_moveablepoint/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/point2d_point3d/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/point2d_point3d/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/point2d_point3d/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/thuc_hanh/he_cac_doi_tuong_hinh_hoc/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/thuc_hanh/he_cac_doi_tuong_hinh_hoc/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/thuc_hanh/he_cac_doi_tuong_hinh_hoc/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/thuc_hanh/he_cac_doi_tuong_hinh_hoc/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/triangle/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/triangle/TriangleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,6 +144,7 @@
       <workItem from="1639538917209" duration="915000" />
       <workItem from="1639566108556" duration="1235000" />
       <workItem from="1639736855926" duration="1393000" />
+      <workItem from="1639739430381" duration="1233000" />
     </task>
     <servers />
   </component>
@@ -172,6 +156,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639539526830" />
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1639740328201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1639740328201" />
     <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1638961732907">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -192,10 +180,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639580756398" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1639736892973">
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1639739431683">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1639736892973" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1639739431683" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/module2$Main__3_.ic" NAME="Main (3) Coverage Results" MODIFIED="1638440765816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
