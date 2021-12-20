@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b148634-7b59-40e1-a316-46dcd4ddbf1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/triangle/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance_in_java/bai_tap/triangle/TriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/colorable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/colorable/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/colorable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/colorable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/colorable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/colorable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/resizeable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/resizeable/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/resizeable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/resizeable/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/resizeable/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/resizeable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/resizeable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/bai_tap/resizeable/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/lop_animal_va_interface_edible/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/lop_animal_va_interface_edible/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/lop_animal_va_interface_edible/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/lop_animal_va_interface_edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/lop_animal_va_interface_edible/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/lop_animal_va_interface_edible/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/lop_animal_va_interface_edible/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/lop_animal_va_interface_edible/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/trien_khai_interface_cac_lop_hinh_hoc/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/trien_khai_interface_cac_lop_hinh_hoc/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/trien_khai_interface_so_sanh_cac_lop_hinh_hoc/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/trien_khai_interface_so_sanh_cac_lop_hinh_hoc/CircleComparatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +38,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -145,6 +170,9 @@
       <workItem from="1639566108556" duration="1235000" />
       <workItem from="1639736855926" duration="1393000" />
       <workItem from="1639739430381" duration="1233000" />
+      <workItem from="1639741403407" duration="2788000" />
+      <workItem from="1639900926963" duration="8000" />
+      <workItem from="1639965900018" duration="1298000" />
     </task>
     <servers />
   </component>
@@ -152,10 +180,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1639539526830">
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1639966449872">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639539526830" />
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639966449872" />
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1639740328201">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -180,10 +208,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639580756398" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1639739431683">
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1639965910980">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1639739431683" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1639965910980" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/module2$Main__3_.ic" NAME="Main (3) Coverage Results" MODIFIED="1638440765816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
