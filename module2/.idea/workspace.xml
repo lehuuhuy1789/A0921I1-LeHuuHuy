@@ -2,19 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b148634-7b59-40e1-a316-46dcd4ddbf1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/bai_tap/array_list/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/bai_tap/array_list/TestMyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/bai_tap/linked_list/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/bai_tap/linked_list/TestLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/thuc_hanh/trien_khai_linkedlist_list_don_gian/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/thuc_hanh/trien_khai_linkedlist_list_don_gian/TestMyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/thuc_hanh/trien_khai_lop_list_don_gian/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/thuc_hanh/trien_khai_lop_list_don_gian/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code/thuc_hanh/refactoring_doi_ten_bien_va_tach_hang/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code/thuc_hanh/refactoring_doi_ten_bien_va_tach_hang/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code/thuc_hanh/refactoring_tach_bien/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code/thuc_hanh/refactoring_tach_bien/FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code/thuc_hanh/refactoring_tach_phuong_thuc/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/manager_student/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/manager_student/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/manager_student/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/manager_student/service/CRUDInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/manager_student/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/chuyen_doi_thap_phan_sang_nhi_phan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/dao_nguoc_phan_tu_trong_mang_so_nguyen_su_dung_stack/DaoNguocChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/dao_nguoc_phan_tu_trong_mang_so_nguyen_su_dung_stack/DaoNguocPhanTuTrongMangSoNguyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/dem_so_lan_xuat_hien_moi_tu_dung_map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/kiem_tra_chuoi_palindrome_dung_queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/kiem_tra_dau_ngoac_trong_stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist_trong_java_collection_framework/CompareProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist_trong_java_collection_framework/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist_trong_java_collection_framework/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist_trong_java_collection_framework/TestProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/luu_danh_sach_sv_theo_tuoi/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/phan_biet_hashmap_hashset/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/phan_biet_hashmap_hashset/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/sap_xep_comparable_va_comparator/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/sap_xep_comparable_va_comparator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/sap_xep_comparable_va_comparator/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +65,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.RectangleTest">
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong_trong_java.MyClass" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manager_student.controller.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_lop_va_doi_tuong_trong_java.*" />
+          <option name="PATTERN" value="manager_student.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.RectangleTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestStaticProperty" />
         <item itemvalue="Application.TestStaticMethod" />
-        <item itemvalue="Application.MyClass" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +181,17 @@
       <workItem from="1640530778273" duration="2239000" />
       <workItem from="1640667297986" duration="612000" />
       <workItem from="1640749552177" duration="2454000" />
+      <workItem from="1640865698404" duration="597000" />
+      <workItem from="1640945232450" duration="3331000" />
+      <workItem from="1640967901715" duration="15000" />
+      <workItem from="1641119336055" duration="1197000" />
+      <workItem from="1641127785410" duration="745000" />
+      <workItem from="1641141352882" duration="1189000" />
+      <workItem from="1641370281745" duration="4863000" />
+      <workItem from="1641375212815" duration="2996000" />
+      <workItem from="1641378409292" duration="2819000" />
+      <workItem from="1641386771524" duration="2775000" />
+      <workItem from="1642410414430" duration="4133000" />
     </task>
     <servers />
   </component>
@@ -180,10 +199,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1639966449872">
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1641382998455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639966449872" />
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1641382998455" />
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1639740328201">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -192,30 +211,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638961732907" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1640538196894">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1641378233481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640538196893" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1640538196893">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641378233481" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1641378233481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1640538196893" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1640538196893">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1641378233481" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1641378233480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1640538196893" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1640538196893">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1641378233480" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1641378233481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1640538196893" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1640749565320">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1641378233481" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1642410440512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1640749565320" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1642410440512" />
     <state x="498" y="315" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1640758130046">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="315" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1640758130046" />
+    <state x="428" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1641384426451">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1641384426451" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/module2$Main__3_.ic" NAME="Main (3) Coverage Results" MODIFIED="1638440765816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
