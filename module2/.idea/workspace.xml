@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b148634-7b59-40e1-a316-46dcd4ddbf1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/manager_student/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/manager_student/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/manager_student/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/manager_student/service/CRUDInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/manager_student/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/chuyen_doi_thap_phan_sang_nhi_phan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/dao_nguoc_phan_tu_trong_mang_so_nguyen_su_dung_stack/DaoNguocChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/dao_nguoc_phan_tu_trong_mang_so_nguyen_su_dung_stack/DaoNguocPhanTuTrongMangSoNguyen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/dem_so_lan_xuat_hien_moi_tu_dung_map/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/kiem_tra_chuoi_palindrome_dung_queue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/kiem_tra_dau_ngoac_trong_stack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist_trong_java_collection_framework/CompareProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist_trong_java_collection_framework/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist_trong_java_collection_framework/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist_trong_java_collection_framework/TestProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/luu_danh_sach_sv_theo_tuoi/TestMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/phan_biet_hashmap_hashset/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/phan_biet_hashmap_hashset/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/sap_xep_comparable_va_comparator/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/sap_xep_comparable_va_comparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/sap_xep_comparable_va_comparator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss13_thuat_toan_tim_kiem/bai_tap/TimChuoiTangDanCoDoDaiLonNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss13_thuat_toan_tim_kiem/thuc_hanh/TinhDoPhucTapCuaThuatToan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss14_thuat_toan_sap_xep/bai_tap/MinhHoaThuatToanSapXepChen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss14_thuat_toan_sap_xep/thuc_hanh/cai_dat_thuat_toan_sap_xep_chen/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss14_thuat_toan_sap_xep/thuc_hanh/cai_dat_thuat_toan_sap_xep_noi_bot/InstallBubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss14_thuat_toan_sap_xep/thuc_hanh/minh_hoa_thuat_toan_sap_xep_noi_bot/BubbleSortByStep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +176,8 @@
       <workItem from="1641375212815" duration="2996000" />
       <workItem from="1641378409292" duration="2819000" />
       <workItem from="1641386771524" duration="2775000" />
-      <workItem from="1642410414430" duration="4133000" />
+      <workItem from="1642410414430" duration="4988000" />
+      <workItem from="1642472983877" duration="2677000" />
     </task>
     <servers />
   </component>
@@ -227,10 +213,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1641378233481" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1642410440512">
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1642473219467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1642410440512" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1642473219467" />
     <state x="498" y="315" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1640758130046">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
