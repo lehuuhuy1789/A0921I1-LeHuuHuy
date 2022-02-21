@@ -4,7 +4,7 @@ public class Student extends Person {
     private int point;
     private String subject;
 
-    public Student() {
+    public Student(int id, String name, int date, String sex, int phone, int idClass) {
 
     }
 

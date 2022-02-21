@@ -1,16 +1,16 @@
 package thi_module2.model;
 
-public class Person {
+public class Teacher {
     private int id;
     private String name;
     private int date;
     private String sex;
     private int phone;
 
-    public Person() {
+    public Teacher() {
     }
 
-    public Person(int id, String name, int date, String sex, String phone) {
+    public Teacher(int id, String name, int date, String sex, int phone) {
         this.id = id;
         this.name = name;
         this.date = date;
@@ -50,22 +50,16 @@ public class Person {
         this.sex = sex;
     }
 
-    public String getPhone() {
+    public int getPhone() {
         return phone;
     }
 
-    public void setPhone(String phone) {
+    public void setPhone(int phone) {
         this.phone = phone;
     }
 
     @Override
     public String toString() {
-        return "Person{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", date=" + date +
-                ", sex='" + sex + '\'' +
-                ", phone='" + phone + '\'' +
-                '}';
+        return getId()+","+getName()+","+getDate()+","+getSex()+","+getPhone();
     }
 }
