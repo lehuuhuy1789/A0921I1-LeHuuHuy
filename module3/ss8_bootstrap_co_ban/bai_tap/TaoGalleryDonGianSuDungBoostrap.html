@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div.gallery img {
+            width: 100%;
+            height: auto;
+            box-sizing: border-box;
+        }
+
+        .responsive {
+            float: left;
+            width: 24.99999%;
+        }
+
+        @media only screen and (max-width: 700px) {
+            .responsive {
+                width: 49.99999%;
+            }
+        }
+
+        @media only screen and (max-width: 500px) {
+            .responsive {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="responsive">
+    <a target="#" href="https://media.vietravel.com/images/NewsPicture/The_Wave_Coyote_Buttes_Arizona1_resize.jpg">
+        <img src="https://media.vietravel.com/images/NewsPicture/The_Wave_Coyote_Buttes_Arizona1_resize.jpg"
+             alt="SA THẠCH THE WAVE, ARIZONA, MỸ" width="600" height="400">
+    </a>
+</div>
+<div class="responsive">
+    <a target="#"
+       href="https://media.vietravel.com/images/NewsPicture/Salar%20de%20Uyuni,%20Bolivia_resize.jpg">
+        <img src="https://media.vietravel.com/images/NewsPicture/Salar%20de%20Uyuni,%20Bolivia_resize.jpg"
+             alt="ĐỒNG MUỐI SALAR DE UYUNI, BOLIVIA" width="600" height="400">
+    </a>
+</div>
+<div class="responsive">
+    <a target="#" href="https://media.vietravel.com/images/NewsPicture/Ireland_resize.png">
+        <img src="https://media.vietravel.com/images/NewsPicture/Ireland_resize.png"
+             alt="CỰC QUANG PHƯƠNG BẮC, IRELAND" width="600" height="400">
+    </a>
+</div>
+<div class="responsive">
+    <a target="#"
+       href="https://media.vietravel.com/images/NewsPicture/Cano%20Cristales,%20Colombia_resize.jpg">
+        <img src="https://media.vietravel.com/images/NewsPicture/Cano%20Cristales,%20Colombia_resize.jpg"
+             alt=" SÔNG CANO CRISTALES, COLOMBIA" width="600" height="400">
+    </a>
+</div>
+</body>
+</html>

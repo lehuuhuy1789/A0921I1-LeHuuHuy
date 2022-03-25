@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Titlek</title>
+    <style>
+        img{
+            position: relative;
+            width: 50px;
+            hegiht:50px;
+            left: 0px;
+            padding-left: 0px;
+        }
+        body{
+            font-family: "Times New Roman";
+        }
+        header{
+            height: 50px;
+            padding:10px;
+            margin:0;
+            background-color: white;
+
+        }
+        header ul, header li{
+            padding:0;
+            margin:0;
+        }
+        header li{
+            position: relative;
+            float: left;
+            list-style: none;
+            margin: 0;
+            padding:0;
+        }
+        header ul li{
+            list-style: none;
+        }
+        header li a {
+            width: 100px;
+            height: 30px;
+            display: block;
+            text-decoration: none;
+            text-align: center;
+            line-height: 30px;
+            background-color: white;
+            color: black;
+        }
+        header ul ul li a {
+            width: 200px;
+            text-align: left;
+            padding-left: 10px;
+        }
+        header li a:hover{
+            background-color: red;
+        }
+        header ul ul{
+            position: absolute;
+            top: 30px;
+            left: 15px;
+            visibility: hidden;
+        }
+        header ul li:hover ul {
+            visibility: visible;
+        }
+
+        aside li{
+            list-style: none;
+            position: relative;
+            width:150px;
+            height: 50px;
+            /*padding:0 px;*/
+            background-color: white;
+            line-height: 30px;
+            cursor:pointer;
+        }
+        aside li a{
+            text-decoration:none;
+            color: black;
+        }
+
+        aside li:hover{
+            background-color:red;
+        }
+
+        aside ul ul{
+            position: absolute;
+            top:0;
+            left:140px;
+            visibility:hidden;
+        }
+
+        aside ul li:hover ul{
+            visibility:visible;
+        }
+        section {
+            left: 20px;
+            margin: 5px;
+            padding: 10px;
+            background-color: lightgrey;
+            border: yellow solid 1px;
+        }
+        article {
+            left: 20px;
+            margin: 5px;
+            padding: 10px;
+            background-color: white;
+            border: blueviolet solid 1px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <ul>
+        <li><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjoJr5MBOd5jmYvhm5Ju9o5HiIOtBEVIYgYA&usqp=CAU">  </a>
+        <li><a href="#">Trang chủ</a>
+            <ul></ul>
+        </li>
+        <li><a href="#">Watch</a>
+            <ul></ul>
+        </li>
+        <li><a href="#">Marketplace</a>
+            <ul></ul>
+        </li>
+        <li><a href="#">Nhóm</a>
+            <ul></ul>
+        </li>
+        <li><a href="#">Trò chơi</a>
+            <ul></ul>
+        </li>
+        <li><a href="#">Menu </a>
+            <ul>
+                <li><a href="#">Đăng</a></li>
+                <li><a href="#">Tin</a></li>
+                <li><a href="#">Sự Kiện</a></li>
+                <li><a href="#">Bài Viết Nhóm</a></li>
+                <li><a href="#">Trang</a></li>
+                <li><a href="#">Quảng Cáo</a></li>
+                <li><a href="#">Nhóm</a></li>
+                <li><a href="#">Việc làm</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Messenger</a></li>
+        <li><a href="#">Thông báo</a></li>
+    </ul>
+</header>
+<aside>
+    <ul>
+        <li><a href="#"><img src="https://vnn-imgs-f.vgcloud.vn/2020/03/23/11/trend-avatar-1.jpg">Tên của bạn</a></li>
+        <li><a href="#"><img src="https://www.facebook.com/rsrc.php/v3/y8/r/S0U5ECzYUSu.png">Bạn bè</a></li>
+        <li><a href="#"><img src="https://www.facebook.com/rsrc.php/v3/y5/r/PrjLkDYpYbH.png">Nhóm</a></li>
+        <li><a href="#"><img src="https://www.facebook.com/rsrc.php/v3/yU/r/D2y-jJ2C_hO.png">Marketplace</a></li>
+        <li><a href="#"><img src="https://www.facebook.com/rsrc.php/v3/y5/r/duk32h44Y31.png">Watch</a></li>
+        <li><a href="#">Xem thêm</a>
+        </li>
+    </ul>
+    <ul>
+        <li>Lối tắt của bạn</li>
+    </ul>
+</aside>
+</body>
+</html>

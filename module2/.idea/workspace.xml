@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b148634-7b59-40e1-a316-46dcd4ddbf1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../module3/ss6_css/bai_tap/dinh_dang_van_ban_voi_css/dinhdangvanban.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/ss6_css/bai_tap/dinh_dang_van_ban_voi_css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/ss6_css/bai_tap/nhung_css_vao_trang_html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/ss6_css/bai_tap/nhung_css_vao_trang_html/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/ss6_css/thuc_hanh/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/ss8_bootstrap_co_ban/bai_tap/TaoGalleryDonGianSuDungBoostrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/ss8_bootstrap_co_ban/thuc_hanh/XayDungFormLogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/ss8_bootstrap_co_ban/thuc_hanh/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module3/ss1_co_so_du_lieu_quan_he/thuc_hanh/test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../module3/ss1_co_so_du_lieu_quan_he/thuc_hanh/test.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module3/case_study/truy_van_database/TruyVanFurama.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../module3/case_study/truy_van_database/TruyVanFurama.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="H:/A0721I1_LeHuuHuy/GitHub/thi/controllers/MenuTest.class" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../module3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -188,6 +196,9 @@
       <workItem from="1645583517318" duration="602000" />
       <workItem from="1645980553752" duration="617000" />
       <workItem from="1646321502752" duration="9000" />
+      <workItem from="1647262234070" duration="1187000" />
+      <workItem from="1647611689087" duration="623000" />
+      <workItem from="1647868124834" duration="1217000" />
     </task>
     <servers />
   </component>
@@ -211,10 +222,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1644843960299" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1644840662804">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1647870768166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1644840662804" />
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1647870768166" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1644848759296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -235,10 +246,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="194" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1642591125444" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1646321508268">
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1647868133114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1646321508268" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1647868133114" />
     <state x="498" y="315" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1640758130046">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
